@@ -1,0 +1,7 @@
+﻿  AdaptiveHuffman.cpp
+e:\学习\数媒\大三\大三下\27数字音频\exp2\adaptivehuffman\adaptivehuffman\adaptivehuffman.cpp(269): warning C4018: '<': signed/unsigned mismatch
+e:\学习\数媒\大三\大三下\27数字音频\exp2\adaptivehuffman\adaptivehuffman\adaptivehuffman.cpp(290): warning C4018: '<': signed/unsigned mismatch
+e:\学习\数媒\大三\大三下\27数字音频\exp2\adaptivehuffman\adaptivehuffman\adaptivehuffman.cpp(58): warning C4715: 'findChar': not all control paths return a value
+e:\学习\数媒\大三\大三下\27数字音频\exp2\adaptivehuffman\adaptivehuffman\adaptivehuffman.cpp(257): warning C4715: 'newChar': not all control paths return a value
+  AdaptiveHuffman.vcxproj -> E:\学习\数媒\大三\大三下\27数字音频\EXP2\AdaptiveHuffman\Debug\AdaptiveHuffman.exe
+  AdaptiveHuffman.vcxproj -> E:\学习\数媒\大三\大三下\27数字音频\EXP2\AdaptiveHuffman\Debug\AdaptiveHuffman.pdb (Full PDB)
